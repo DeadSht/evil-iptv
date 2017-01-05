@@ -10,7 +10,7 @@
 <fanart></fanart>    
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://pastebin.com/raw/HT945seg]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/DeadSht/evil-iptv/master/iptv.m3u]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
