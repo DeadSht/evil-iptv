@@ -1,0 +1,347 @@
+#EXTM3U
+#EXTINF:-1,WWE NETWORK
+http://ultime-iptv.net:8000/live/sousa/sousa/2730.ts
+#EXTINF:2, RAI 1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/315.ts
+#EXTINF:3, RAI 2 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/316.ts
+#EXTINF:4, RAI 3 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/317.ts
+#EXTINF:5, RETE 4 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/318.ts
+#EXTINF:6, CANALE 5 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/319.ts
+#EXTINF:7, ITALIA 1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/320.ts
+#EXTINF:8, MEDIASET EXTRA
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/1556.ts
+#EXTINF:9, RSI LA1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/356.ts
+#EXTINF:10, RSI LA2 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/357.ts
+#EXTINF:11, LA 7
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/326.ts
+#EXTINF:12, RAI PREMIUM
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/347.ts
+#EXTINF:13, BOING
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/358.ts
+#EXTINF:14, RAI 4
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/344.ts
+#EXTINF:15, RAI SPORT 1
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/352.ts
+#EXTINF:16, RAI SPORT 2
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/353.ts
+#EXTINF:17, Iris
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2720.ts
+#EXTINF:18, - - - CINEMA- - -
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/355.ts
+#EXTINF:19, SKY CINEMA 1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/10.ts
+#EXTINF:20, SKY CINEMA +1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/69.ts
+#EXTINF:21, SKY CINEMA +24 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/11.ts
+#EXTINF:22, SKY CINEMA HITS HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/12.ts
+#EXTINF:23, SKY CINEMA FAMILY HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/13.ts
+#EXTINF:24, SKY CINEMA PASSION
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/71.ts
+#EXTINF:25, SKY CINEMA CULT HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/47.ts
+#EXTINF:26, SKY CINEMA COMEDY HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/14.ts
+#EXTINF:27, SKY CINEMA MAX HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/15.ts
+#EXTINF:28, SKY CINEMA MAX +1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/72.ts
+#EXTINF:29, SKY CINEMA CLASSICS HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/16.ts
+#EXTINF:30, SKY COMEDY CENTRAL
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/294.ts
+#EXTINF:31, SKY TG 24
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/112.ts
+#EXTINF:32, SKY UNO HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/48.ts
+#EXTINF:33, SKY UNO +1
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/73.ts
+#EXTINF:34, SKY ATLANTIC HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/18.ts
+#EXTINF:35, SKY ATLANTIC HD +1
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/314.ts
+#EXTINF:36, FOX HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/45.ts
+#EXTINF:37, FOX +1
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/74.ts
+#EXTINF:38, FOX LIFE HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/43.ts
+#EXTINF:39, FOX LIFE +1
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/75.ts
+#EXTINF:40, FOX CRIME HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/17.ts
+#EXTINF:41, FOX CRIME +1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/76.ts
+#EXTINF:42, FOX ANIMATION HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/78.ts
+#EXTINF:43, FOX COMEDY HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/77.ts
+#EXTINF:44, LEI
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/579.ts
+#EXTINF:45, Laeffe
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2715.ts
+#EXTINF:46, CI CRIME + INV  HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/23.ts
+#EXTINF:47, POKER ITALIA 24
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/297.ts
+#EXTINF:48, SKY AXN HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/79.ts
+#EXTINF:49, SKY F1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/26.ts
+#EXTINF:50, SKY SPORT MOTOGP
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/82.ts
+#EXTINF:51, EUROSPORT 1HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/295.ts
+#EXTINF:52, EUROSPORT 2HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/296.ts
+#EXTINF:53, SKY SPORT 24 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/22.ts
+#EXTINF:54, SKY SPORT 1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/19.ts
+#EXTINF:55, SKY SPORT 2 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/20.ts
+#EXTINF:56, SKY SPORT 3 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/21.ts
+#EXTINF:57, SKY SPORT PLUS HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/24.ts
+#EXTINF:58, FOX Sport HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/80.ts
+#EXTINF:59, SKY SUPERCALCIO HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/25.ts
+#EXTINF:60, SKY CALCIO 1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/27.ts
+#EXTINF:61, SKY CALCIO 2 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/28.ts
+#EXTINF:62, SKY CALCIO 3 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/29.ts
+#EXTINF:63, SKY CALCIO 4 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/30.ts
+#EXTINF:64, SKY CALCIO 5 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/31.ts
+#EXTINF:65, SKY CALCIO 6 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/32.ts
+#EXTINF:66, SKY CALCIO 7 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/33.ts
+#EXTINF:67, SKY CALCIO 8 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/34.ts
+#EXTINF:68, SKY CALCIO 9 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/35.ts
+#EXTINF:69, SKY CALCIO 10 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/36.ts
+#EXTINF:70, SKY CALCIO 11 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/37.ts
+#EXTINF:71, SKY CALCIO 12 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/38.ts
+#EXTINF:72, INTER CHANNEL
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/83.ts
+#EXTINF:73, JUVENTUS CHANNEL
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/85.ts
+#EXTINF:74, LAZIO CHANNEL
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/87.ts
+#EXTINF:75, MILAN CHANNEL
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/84.ts
+#EXTINF:76, ROMA CHANNEL
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/86.ts
+#EXTINF:77, SKY ARTE HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/88.ts
+#EXTINF:78, DISCOVERY HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/89.ts
+#EXTINF:79, SKY DISCOVERY SCI
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/44.ts
+#EXTINF:80, DISCOVERY TRAVEL HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/91.ts
+#EXTINF:81, SKY EXPLORA HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/298.ts
+#EXTINF:82, NATGEO WILD HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/94.ts
+#EXTINF:83, NATIONAL GEO POPLE HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/93.ts
+#EXTINF:84, NATIONAL GEO  HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/42.ts
+#EXTINF:85, HISTORY HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/95.ts
+#EXTINF:86, SKY FOCUS
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/631.ts
+#EXTINF:87, DMAX
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/343.ts
+#EXTINF:88, REAL TIME HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/293.ts
+#EXTINF:89, CACCIA PESCA
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/98.ts
+#EXTINF:90, PESCA & CACCIA
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/99.ts
+#EXTINF:91, SKY CIELO
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/40.ts
+#EXTINF:92, GAMBERO ROSSO HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/100.ts
+#EXTINF:93, SKY ANIMAL PLANET HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/97.ts
+#EXTINF:94, CARTOON NETWORK
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/50.ts
+#EXTINF:95, DISNEY CHANNEL  HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/49.ts
+#EXTINF:96, DISNEY CHANNEL +1
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/697.ts
+#EXTINF:97, DISNEY JUNIOR
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2735.ts
+#EXTINF:98, CARTONITO
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/699.ts
+#EXTINF:99, SKY BABY TV
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/110.ts
+#EXTINF:100, SKY NICKELODEON
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/104.ts
+#EXTINF:101, SKY BOOMERANG
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/105.ts
+#EXTINF:102, SKY DEA JUNIOR
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/109.ts
+#EXTINF:103, SKY DEAKIDS
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/102.ts
+#EXTINF:104, SKY DISNEY XD HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/101.ts
+#EXTINF:105, SUPER
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/698.ts
+#EXTINF:106, MAN-GA
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/111.ts
+#EXTINF:107, NICK JUNIOR
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/103.ts
+#EXTINF:108, K2
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/639.ts
+#EXTINF:109, EASY BABY
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/638.ts
+#EXTINF:110, - - - - - SKY ITALIA SD - - - - -
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2375.ts
+#EXTINF:111, SKY CINEMA 1 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2398.ts
+#EXTINF:112, SKY CINEMA +1 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2404.ts
+#EXTINF:113, SKY CINEMA +24 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2399.ts
+#EXTINF:114, SKY CINEMA HITS  SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2395.ts
+#EXTINF:115, SKY CINEMA MAX SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2394.ts
+#EXTINF:116, SKY CINEMA MAX +1 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2384.ts
+#EXTINF:117, SKY CINEMA FAMILY SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2396.ts
+#EXTINF:118, SKY CINEMA COMEDY SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2376.ts
+#EXTINF:119, SKY ATLANTIC SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2405.ts
+#EXTINF:120, SKY UNO SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2379.ts
+#EXTINF:121, SKY FOX SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2391.ts
+#EXTINF:122, SKY FOX LIFE SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2392.ts
+#EXTINF:123, SKY FOX CRIME SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2393.ts
+#EXTINF:124, SKY AXN  SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2403.ts
+#EXTINF:125, SKY MOTOGP SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2389.ts
+#EXTINF:126, SKY SPORT F1 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2378.ts
+#EXTINF:127, SKY SPORT 24 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2381.ts
+#EXTINF:128, SKY SPORT 1 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2383.ts
+#EXTINF:129, SKY SPORT 2 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2382.ts
+#EXTINF:130, SKY FOX SPORT SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2390.ts
+#EXTINF:131, SKY SPORT PLUS SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2377.ts
+#EXTINF:132, SKY SUPERCALCIO SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2380.ts
+#EXTINF:133, SKY CALCIO 1 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2388.ts
+#EXTINF:134, SKY CALCIO 2 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2387.ts
+#EXTINF:135, SKY CALCIO 3 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2386.ts
+#EXTINF:136, SKY CALCIO 4 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2402.ts
+#EXTINF:137, SKY CALCIO 5 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2401.ts
+#EXTINF:138, SKY CALCIO 6 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2385.ts
+#EXTINF:139, SKY CALCIO 7 SD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/2400.ts
+#EXTINF:140, MUSIC LIVE HD 1
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/225.ts
+#EXTINF:141, MUSIC LIVE HD 2
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/226.ts
+#EXTINF:142, MUSIC LIVE HD 3
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/227.ts
+#EXTINF:143, MUSIC LIVE HD 4
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/228.ts
+#EXTINF:144, - - - - - R A D I O - - - - -
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/705.ts
+#EXTINF:145, RTL 102
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/704.ts
+#EXTINF:146, RADIO DEEJAY
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/706.ts
+#EXTINF:147, RADIO 105
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/707.ts
+#EXTINF:148, VIRGIN RADIO
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/709.ts
+#EXTINF:149, RADIO RDS
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/708.ts
+#EXTINF:150, RADIO SUBASIO
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/710.ts
+#EXTINF:151, RADIO M2O
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/711.ts
+#EXTINF:152, PREMIUM CINEMA HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/51.ts
+#EXTINF:153, PREMIUM CINEMA +24
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/665.ts
+#EXTINF:154, PREMIUM CINEMA 2 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/666.ts
+#EXTINF:155, PREMIUM CINEMA 2 +24
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/667.ts
+#EXTINF:156, PREMIUM CRIME HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/59.ts
+#EXTINF:157, PREMIUM ACTION HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/58.ts
+#EXTINF:158, PREMIUM ACTION +24
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/669.ts
+#EXTINF:159, PREMIUM COMEDY
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/54.ts
+#EXTINF:160, PREMIUM ENERGY
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/53.ts
+#EXTINF:161, PREMIUM EMOTION
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/52.ts
+#EXTINF:162, PREMIUM STORIES
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/670.ts
+#EXTINF:163, PARAMOUNT CHANNEL
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/1586.ts
+#EXTINF:164, PREMIUM JOY
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/56.ts
+#EXTINF:165, PREMIUM SPORT HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/671.ts
+#EXTINF:166, PREMIUM SPORT 2 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/64.ts
+#EXTINF:167, PREMIUM CALCIO 1 HD
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/65.ts
+#EXTINF:168, PREMIUM CALCIO 2
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/66.ts
+#EXTINF:169, PREMIUM CALCIO 3
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/67.ts
+#EXTINF:170, PREMIUM CALCIO 4
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/282.ts
+#EXTINF:171, PREMIUM CALCIO 5
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/283.ts
+#EXTINF:172, PREMIUM CALCIO 6
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/633.ts
+#EXTINF:173, PREMIUM CALCIO 7
+http://work.myvisio.me:9889/live/crazybull2/crazybull2/634.ts
