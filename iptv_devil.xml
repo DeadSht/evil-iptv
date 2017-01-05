@@ -81,7 +81,7 @@
 <fanart></fanart>    
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://pastebin.com/raw/zeAZQPHd]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/DeadSht/evil-iptv/master/iptv5.m3u]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
