@@ -46,7 +46,7 @@
 <fanart></fanart>    
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://pastebin.com/raw/b0YFuX9k]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/DeadSht/evil-iptv/master/iptv%20bein%20sport]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
