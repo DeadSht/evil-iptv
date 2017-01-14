@@ -5,5 +5,5 @@
 <link>http://ignorame</link>
 <thumbnail>http://www.adweek.com/socialtimes/wp-content/uploads/sites/2/2012/12/web-tv.jpg</thumbnail>
 <fanart></fanart>
-<externallink>link</externallink>
+<externallink>www.google.com</externallink>
 </item>
